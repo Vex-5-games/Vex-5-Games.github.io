@@ -4,8 +4,9 @@ body{background-color: rgb(95, 0, 184); margin: 0;}
     background-color: #6a005fac;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;}
-    object{color: white;
-            font-size: xx-large;}
+    .Banner-Text{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: xx-large;}
     embed{width: 80%;
         height: 40%;
         margin-left: 7%;
