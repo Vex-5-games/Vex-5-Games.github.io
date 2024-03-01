@@ -6,3 +6,5 @@ body{background-color: rgb(95, 0, 184); margin: 0;}
     border-bottom-right-radius: 15px;}
     object{color: white;
             font-size: xx-large;}
+    embed{width: 80%;
+        height: 40%;}
