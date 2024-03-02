@@ -4,13 +4,55 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vex 7</title>
-    <link rel="stylesheet" href="Assets/scripts/style.css">
-    <var class="Game-Name"><object data="/Game-Name.txt"></object></var>
+    <object data="/Game-Name.txt"></object>
+    <style>
+        body{background-color: rgb(95, 0, 184); margin: 0;}
+.banner{width: 100%;
+    height: 75px;
+    background-color: #6a005fac;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;}
+    .Banner-Text{
+        font-family: 'Protest-Riot';
+        font-size: xx-large;}
+    .embeds{width: 80%;
+        height: 40%;
+        margin-left: 7%;
+        margin-top: 15%;}
+    .tag{width: 80%;
+        height: 40%;
+        margin-left: 7%;
+        margin-top: 15%;}
+    @font-face {
+        font-family: 'Protest-Riot';
+        src: url(/Assets/Fonts/ProtestRiot-Regular.ttf);
+    }
+    .Fullscreen-Text{
+        margin-bottom: 3px; 
+        margin-right: 2px; 
+        float: right;
+        font-family: 'Protest-Riot';}
+    .tag{
+        background-color: #500060; 
+        width: 70%; 
+        height: 75px; 
+        margin: 0; 
+        font-size: xx-large;
+        color: white; 
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+        border-bottom-left-radius: 25px; 
+        border-bottom-right-radius: 25px;}
+.Game-Name{font-family: 'Protest-Riot';
+        font-size: xx-large;}
+    </style>
+    <script>
+        var HeaderTXT = document.getElementById("object");
+    </script>
 </head>
 <body>
     <div class="banner">
         <div class="Banner-Content">
-            <a href="/index.html"><d1></d1></a>
+            <a href="/index.html"><d1><var>HeaderTXT</var></d1></a>
         </div>
     </div>
             <div class="Game" style="margin: 0;">
