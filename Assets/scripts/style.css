@@ -7,7 +7,7 @@ body{background-color: rgb(95, 0, 184); margin: 0;}
     .Banner-Text{
         font-family: 'Protest-Riot';
         font-size: xx-large;}
-    embed{width: 80%;
+    .embeds{width: 80%;
         height: 40%;
         margin-left: 7%;
         margin-top: 15%;}
@@ -34,4 +34,5 @@ body{background-color: rgb(95, 0, 184); margin: 0;}
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
         border-bottom-left-radius: 25px; 
         border-bottom-right-radius: 25px;}
-    
+.Game-Name{font-family: 'Protest-Riot';
+        font-size: xx-large;}
