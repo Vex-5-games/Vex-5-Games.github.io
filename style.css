@@ -5,10 +5,6 @@
         background-color: #6a005f;
         border-bottom-left-radius: 15px;
         border-bottom-right-radius: 15px;}
-    .Banner-Text{
-        font-family: 'Protest-Riot';
-        font-size: 30px;
-        color: white;}
     embed{width: 80%;
         height: 600px;
         margin-top: 7%;}
@@ -21,7 +17,7 @@
         float: right;
         font-family: 'Protest-Riot';
     color: white;}
-    .titles{
+    .Banner-Text{
         color: #fff;
         font-size: xx-large;
         float: right;
