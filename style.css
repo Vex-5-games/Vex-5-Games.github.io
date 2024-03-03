@@ -21,7 +21,9 @@
         color: #fff;
         font-size: xx-large;
         font-family: 'Protest-Riot';
-    color: white;}
+        color: white;
+        float: left;
+        margin-left: 5px;}
     .Game-info{
         background-color: #6a005f;
         width: 80%;
