@@ -44,8 +44,13 @@ img{
         width: 300px;
         height: 300px;
         margin-left: 25px;
-        margin-top: 25px;}
+        margin-top: 25px;
+        transition: filter 0.3s ease;}
     .Images{
         margin: 5%;
         width: 90%;
         height: 999px;}
+
+          img:hover {
+            filter: brightness(50%);
+          }
