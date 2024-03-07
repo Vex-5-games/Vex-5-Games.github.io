@@ -41,16 +41,16 @@
 .Game{
         margin: 0;}
 img{
-        width: 300px;
-        height: 300px;
+        width: 150px;
+        height: 150px;
         margin-left: 25px;
         margin-top: 25px;
-        transition: filter 0.3s ease;}
+        transition: filter 0.3s ease;
+        border-radius: 25px;}
     .Images{
         margin: 5%;
         width: 90%;
         height: 999px;}
-
           img:hover {
             filter: brightness(50%);
           }
