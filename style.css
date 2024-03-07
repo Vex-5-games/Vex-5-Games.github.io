@@ -50,7 +50,7 @@ img{
     .Images{
         margin: 5%;
         width: 90%;
-        height: 999px;}
+        height: 400px;}
           img:hover {
             filter: brightness(50%);
           }
