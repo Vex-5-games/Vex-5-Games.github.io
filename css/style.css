@@ -59,8 +59,9 @@ img{
         height: 100px;
         border-radius: 25px;
         background-color: #6a005f;}
-    d1{
-        font-family: Protest-Riot;
-        font-size: xx-large;
-        color: white;
-    }
+        Contact-Text{
+            color: #fff;
+            font-size: xx-large;
+            font-family: 'Protest-Riot';
+            color: white;
+        }
