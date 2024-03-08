@@ -54,16 +54,3 @@ img{
           img:hover {
             filter: brightness(50%);
           }
-    .Contacts{
-        width: 80%;
-        height: 40px;
-        border-radius: 25px;
-        background-color: #2e002a;
-        margin-top: 20px;}
-
-    .Contact-Text{
-        color: #fff;
-        font-size: xx-large;
-        font-family: 'Protest-Riot';
-        color: white;
-    }
