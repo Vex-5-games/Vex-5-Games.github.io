@@ -13,4 +13,5 @@ function OpenFullscreen() {
             document.head.appendChild(cssLink);
         });
     });
-}
+};
+document.getElementById('Fullscreen-Button').onclick = OpenFullscreen();
