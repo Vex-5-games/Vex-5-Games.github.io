@@ -14,4 +14,4 @@ function OpenFullscreen() {
         });
     });
 };
-document.getElementById('Fullscreen-Button').onclick = OpenFullscreen();
+document.getElementsByClassName('Fullscreen-Text').onclick = OpenFullscreen();
