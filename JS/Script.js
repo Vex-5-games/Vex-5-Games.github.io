@@ -14,4 +14,3 @@ function OpenFullscreen() {
         });
     });
 };
-document.getElementsByClassName('Fullscreen-Text').onclick = OpenFullscreen();
