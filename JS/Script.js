@@ -20,7 +20,7 @@ function CloakTab() {
     if (TabCloak == false) {
         TabCloak = true
         var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
-        link.rel = 'shortcut icon';
+        link.rel = 'icon';
         link.href = 'Assets/Images/Canvas-Logo.png';
         document.title = 'Log In to Canvas';
         document.getElementsByTagName('head')[0].appendChild(link);}
