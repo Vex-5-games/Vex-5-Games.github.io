@@ -17,14 +17,10 @@ function openFullscreen() {
 }
 
 function CloakTab() {
-    TabCloak = true;
-    if (TabCloak == false) {
         return TabCloak === 'true';
         var link = document.createElement('link');
         link.rel = 'shortcut icon';
         link.href = 'Assets/Images/Canvas-Logo.png';
         document.title = 'Log In to Canvas';
         document.getElementsByTagName('head')[0].appendChild(link);
-        
-        };
     };
