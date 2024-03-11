@@ -1,5 +1,3 @@
-var TabCloak = false
-
 function openFullscreen() {
     // Check if the browser supports the Fullscreen API
     if (document.fullscreenEnabled || document.webkitFullscreenEnabled ||
