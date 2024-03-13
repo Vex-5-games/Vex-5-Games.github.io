@@ -17,7 +17,6 @@ function openFullscreen() {
 }
 
 function CloakTab() {
-        return TabCloak === 'true';
         var link = document.createElement('link');
         link.rel = 'shortcut icon';
         link.href = 'Assets/Images/Canvas-Logo.png';
