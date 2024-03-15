@@ -15,7 +15,6 @@ function openFullscreen() {
         }
     }
 }
-
 function CloakTab() {
         var link = document.createElement('link');
         link.rel = 'shortcut icon';
